@@ -1,0 +1,17 @@
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\bin\Debug\net6.0-windows\inmobiliariMVP.exe
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\bin\Debug\net6.0-windows\inmobiliariMVP.deps.json
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\bin\Debug\net6.0-windows\inmobiliariMVP.runtimeconfig.json
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\bin\Debug\net6.0-windows\inmobiliariMVP.dll
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\bin\Debug\net6.0-windows\inmobiliariMVP.pdb
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.csproj.AssemblyReference.cache
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.Form1.resources
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.csproj.GenerateResource.cache
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.AssemblyInfoInputs.cache
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.AssemblyInfo.cs
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.csproj.CoreCompileInputs.cache
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.dll
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\refint\inmobiliariMVP.dll
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.pdb
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\inmobiliariMVP.genruntimeconfig.cache
+D:\Proyectos\inmobiliariMVP\inmobiliariMVP\obj\Debug\net6.0-windows\ref\inmobiliariMVP.dll
