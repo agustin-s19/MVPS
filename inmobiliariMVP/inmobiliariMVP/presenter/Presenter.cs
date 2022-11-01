@@ -24,8 +24,8 @@ namespace inmobiliariMVP
             _inmueble.Metros = int.Parse(_vista.metrosText);
             _inmueble.EsNuevo = _vista.esNuevoText;
             _inmueble.Direccion = _vista.direccionText;
-           
 
+            _vista.precioFinalText = _inmueble.PrecioFinal.ToString();
             
            
 

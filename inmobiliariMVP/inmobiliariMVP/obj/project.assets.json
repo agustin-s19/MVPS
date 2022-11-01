@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\inmobiliariMVP\\inmobiliariMVP\\inmobiliariMVP.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\Desktop\\Proyectos MVP\\inmobiliariMVP\\inmobiliariMVP\\inmobiliariMVP.csproj",
       "projectName": "inmobiliariMVP",
-      "projectPath": "D:\\Proyectos\\inmobiliariMVP\\inmobiliariMVP\\inmobiliariMVP.csproj",
+      "projectPath": "C:\\Users\\agust\\Desktop\\Proyectos MVP\\inmobiliariMVP\\inmobiliariMVP\\inmobiliariMVP.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\inmobiliariMVP\\inmobiliariMVP\\obj\\",
+      "outputPath": "C:\\Users\\agust\\Desktop\\Proyectos MVP\\inmobiliariMVP\\inmobiliariMVP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
